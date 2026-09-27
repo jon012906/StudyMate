@@ -1,0 +1,7 @@
+{
+  "name": "StudyMate",
+  "description": "AI study assistant for university students to explain academic concepts, summarize study material, generate quizzes, and build study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
